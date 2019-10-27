@@ -29,4 +29,3 @@ files
 *.stackdump
 *.csv
 checkstyle.xml
-.travis.yml
